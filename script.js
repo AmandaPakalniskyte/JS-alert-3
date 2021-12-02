@@ -11,6 +11,9 @@ myNumber = prompt("Įveskite skaičių nuo 1 iki 6");
 alert(caracters[myNumber-1]);
 
 
+
+
+
 //Vietoj šito
 
 // if (myNumber == 1) {
@@ -41,13 +44,7 @@ alert(caracters[myNumber-1]);
 
 
 
-alert(caracters[myNumber-1]);
 
 
 
 
-// caracters = prompt("Įveskite skaičių nuo 1 iki 6");
-
-// for (let i = 0; i = 1; i++) {
-//          alert(caracters[0])
-    // }
